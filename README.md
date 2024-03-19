@@ -8,9 +8,8 @@ Requires PC Restart to apply changes.
 
 **Before**
 
-![image](https://github.com/derekburnz/Windows-10-Context-menu-script/assets/127548116/c9213a2e-b010-43f1-9dcc-4ce8d2259f05)
-
 ![image](https://github.com/derekburnz/Windows-10-Context-menu-script/assets/127548116/e508734a-7206-4e1d-bd67-4b882e47f41f)
+![image](https://github.com/derekburnz/Windows-10-Context-menu-script/assets/127548116/c9213a2e-b010-43f1-9dcc-4ce8d2259f05)
 
 **After**
 
