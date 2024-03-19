@@ -1,5 +1,5 @@
 Running it will only change you the ui for the rightclick on file explorer and desktop to get rid of the tedious show more options button and instead will display everything nicely like it did in windows 10.
-
+I also included another program to revert the changes incase you wish to go back to the windows 11 ui.
 
 **Before**
 
