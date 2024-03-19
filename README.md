@@ -14,6 +14,5 @@ Requires PC Restart to apply changes.
 
 **After**
 
-![image](https://github.com/derekburnz/Windows-10-Context-menu-script/assets/127548116/f1b120e8-debe-48c7-a7ba-0a652210fc1a)
-
 ![image](https://github.com/derekburnz/Windows-10-Context-menu-script/assets/127548116/1d4436d8-a994-4bea-8df5-be8e4e89abbc)
+![image](https://github.com/derekburnz/Windows-10-Context-menu-script/assets/127548116/f1b120e8-debe-48c7-a7ba-0a652210fc1a)
